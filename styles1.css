@@ -6,6 +6,7 @@ p {
     font-size: 1.5rem;
     padding-left: 200px;
     padding-right: 200px;
+    text-align: center;
 }
 
 h1 {
@@ -53,6 +54,6 @@ a {
 }
 
 .nav {
-    color:
+    color: blue
 
 }
