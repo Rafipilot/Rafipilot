@@ -6,7 +6,6 @@ p {
     font-size: 1.5rem;
     padding-left: 200px;
     padding-right: 200px;
-    text-align: center;
 }
 
 h1 {
@@ -18,7 +17,7 @@ h1 {
 
 #pic2{
     width: 500px;
-    height: 250px;
+    height: 400px;
     margin-left: auto;
     margin-right: auto;
 
@@ -26,14 +25,14 @@ h1 {
 
 #pic3{
     width: 500px;
-    height: 250px;
+    height: 400px;
     margin-left: auto;
     margin-right: auto;
 }
 
 #pic4{
     width: 495px;
-    height: 250px;
+    height: 400px;
     margin-left: auto;
     margin-right: auto;
 
@@ -54,6 +53,10 @@ a {
 }
 
 .nav {
-    color: blue
+    color: rgb(255, 119, 70);
 
+}
+
+.container-fluid{
+    color: coral
 }
